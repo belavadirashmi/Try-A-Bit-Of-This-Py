@@ -1,3 +1,3 @@
 # quasi
-# and she went...love me like you do...what are you waiting for...
-# bam..bam..bam..
+
+# Collection of self learning projects.
